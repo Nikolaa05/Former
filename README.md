@@ -26,5 +26,15 @@ Projekat je u aktivnom razvoju.
 Izvorni kod projekta Former dostupan je pod
 [MIT licencom](LICENSE).
 
-Grafički materijali u folderu `icons/` nisu
-obuhvaćeni MIT licencom.
+### Ikonica
+
+Ikonica Formera koristi izmenjenu siluetu konja.
+
+- Original: Black Horse Silhouette
+- Autor: Karen Arnold
+- Izvor: [PublicDomainPictures.net](https://www.publicdomainpictures.net/en/view-image.php?image=35093&picture=black-horse-silhouette)
+- Status originala: Public Domain
+- Izmene: Nikolaa05
+
+Originalna silueta objavljena je kao Public Domain.
+

@@ -1,0 +1,16 @@
+
+# Rezervne kopije
+*.bak
+*.bak.*
+*.backup
+
+# Pakovane ekstenzije
+*.zip
+*.xpi
+
+# Lokalni fajlovi
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store

@@ -20,3 +20,11 @@ stranica bez praćenja korisnika.
 ## Status
 
 Projekat je u aktivnom razvoju.
+
+## Licenca
+
+Izvorni kod projekta Former dostupan je pod
+[MIT licencom](LICENSE).
+
+Grafički materijali u folderu `icons/` nisu
+obuhvaćeni MIT licencom.

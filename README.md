@@ -1,6 +1,6 @@
 ## Former
 
-Former je besplatna Firefox ekstenzija koja blokira pristup sajtu Informer i odabranim profilima na društvenim mrežama.
+Former je besplatna Firefox/Chrome ekstenzija koja blokira pristup sajtu Informer i odabranim profilima na društvenim mrežama.
 
 ## Instalacija
 

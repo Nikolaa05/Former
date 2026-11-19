@@ -42,18 +42,16 @@
       }
     ]
   },
-
   "web_accessible_resources": [
-  {
-    "resources": [
-      "blocked.html"
-    ],
-    "matches": [
-      "<all_urls>"
-    ]
-  }
-],
-
+    {
+      "resources": [
+        "blocked.html"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
   "content_scripts": [
     {
       "matches": [

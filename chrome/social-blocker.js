@@ -29,13 +29,12 @@ function formerIsBlockedSocialURL(address) {
     case "twitter.com":
       return account === "informernovine";
     case "youtube.com":
-  return [
-    "@informertelevizija",
-    "@informerportal",
-    "@informerinfo25"
-  ].includes(account) ||
-    (account === "channel" && id === "uck9s7xcozmyf5rfetwfccvq");
-
+      return [
+        "@informertelevizija",
+        "@informerportal",
+        "@informerinfo25"
+      ].includes(account) ||
+        (account === "channel" && id === "uck9s7xcozmyf5rfetwfccvq");
 
     default:
       return false;

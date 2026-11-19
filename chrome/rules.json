@@ -84,23 +84,6 @@
     }
   },
   {
-    "id": 6,
-    "priority": 1,
-    "action": {
-      "type": "redirect",
-      "redirect": {
-        "extensionPath": "/blocked.html"
-      }
-    },
-    "condition": {
-      "regexFilter": "^https?://(?:www\\.|m\\.)?youtube\\.com/@(?:informerportal|informerinfo25)(?:[/?#]|$)",
-      "isUrlFilterCaseSensitive": false,
-      "resourceTypes": [
-        "main_frame"
-      ]
-    }
-  },
-  {
     "id": 7,
     "priority": 1,
     "action": {

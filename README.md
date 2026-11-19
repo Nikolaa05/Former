@@ -55,7 +55,7 @@ Izvorni kod Formera dostupan je pod [MIT licencom](LICENSE). Informacije o porek
 
 ## ☕ Podrži Former / Support Former
 
-Former je besplatna ekstenzija otvorenog koda.
+Former je besplatna ekstenzija.
 
 Ako ti se dopada projekat i želiš da podržiš njegov dalji razvoj, možeš ostaviti dobrovoljnu donaciju.
 

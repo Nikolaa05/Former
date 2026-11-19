@@ -52,3 +52,15 @@ Korisnici koji instaliraju ekstenziju iz zvaničnih prodavnica dobijaju ažurira
 ## Licenca
 
 Izvorni kod Formera dostupan je pod [MIT licencom](LICENSE). Informacije o poreklu i pravima na grafičke materijale dokumentovane su odvojeno.
+
+## ☕ Podrži Former / Support Former
+
+Former je besplatna ekstenzija otvorenog koda.
+
+Ako ti se dopada projekat i želiš da podržiš njegov dalji razvoj, možeš ostaviti dobrovoljnu donaciju.
+
+Former is a free and open-source browser extension.
+
+If you enjoy the project and would like to support its continued development, you can make an optional donation.
+
+**[☕ Support Former on Ko-fi](https://ko-fi.com/ziuee)**

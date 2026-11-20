@@ -43,7 +43,7 @@ Nove verzije izvornog koda biće objavljivane na GitHubu, dok će zvanične verz
 
 Korisnici koji instaliraju ekstenziju iz zvaničnih prodavnica dobijaju ažuriranja preko pregledača, u skladu sa njegovim podešavanjima.
 
-Sve novosti i promene možete pronaći u [istoriji izmena](CHANGELOG.md).
+📋 [Istorija izmena (Changelog)](CHANGELOG.md)
 
 ## Izvorni kod
 

@@ -25,7 +25,7 @@ Napomena: Ova instalacija je privremena i uklanja se nakon ponovnog pokretanja F
 
 **Status:** Verzija 1.1.3 - Odobrena
 
-**Chrome Web Store:** 
+**Chrome Web Store:** [Instaliraj Former za Chrome](https://chromewebstore.google.com/detail/former/hbaaemaajfmomdaonglgbibbbboepnel) 
 
 **Ručna instalacija:**
 

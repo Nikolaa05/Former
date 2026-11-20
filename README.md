@@ -23,9 +23,9 @@ Napomena: Ova instalacija je privremena i uklanja se nakon ponovnog pokretanja F
 
 ### Google Chrome
 
-**Status:** U razvoju — dostupna ručna instalacija.
+**Status:** Verzija 1.1.3 - Odobrena
 
-**Chrome Web Store:** Link će biti dodat nakon objavljivanja.
+**Chrome Web Store:** 
 
 **Ručna instalacija:**
 
@@ -58,9 +58,5 @@ Izvorni kod Formera dostupan je pod [MIT licencom](LICENSE). Informacije o porek
 Former je besplatna ekstenzija.
 
 Ako ti se dopada projekat i želiš da podržiš njegov dalji razvoj, možeš ostaviti dobrovoljnu donaciju.
-
-Former is a free and open-source browser extension.
-
-If you enjoy the project and would like to support its continued development, you can make an optional donation.
 
 **[☕ Support Former on Ko-fi](https://ko-fi.com/ziuee)**

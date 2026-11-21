@@ -8,9 +8,9 @@ Former je dostupan za Firefox i Chrome pregledače.
 
 ### Firefox
 
-**Status:** Čeka odobrenje na Firefox Add-ons.
+**Status:** Verzija 1.1.3 - Odobrena
 
-**Zvanična instalacija:** Link će biti dodat nakon objavljivanja.
+**Firefox Browser Add-ons:** [Instaliraj Former za Firefox](https://addons.mozilla.org/en-US/firefox/addon/former-blocker/)
 
 **Ručna instalacija za testiranje:**
 
